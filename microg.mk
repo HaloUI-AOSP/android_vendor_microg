@@ -3,4 +3,5 @@ PRODUCT_PACKAGES += \
 	GsfProxy \
 	FakeStore \
 	FDroid \
+	FDroidPrivilegedExtension \
 	additional_repos.xml
